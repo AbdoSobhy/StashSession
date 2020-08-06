@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         let area1 = Area()
-        print("area: \(area1.area)")
+        print("area 1: \(area1.area)")
     }
 
 
