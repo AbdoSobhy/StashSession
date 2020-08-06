@@ -13,6 +13,7 @@
 		5269A42424DC8A4F0063DB9A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5269A42224DC8A4F0063DB9A /* Main.storyboard */; };
 		5269A42624DC8A510063DB9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5269A42524DC8A510063DB9A /* Assets.xcassets */; };
 		5269A42924DC8A510063DB9A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5269A42724DC8A510063DB9A /* LaunchScreen.storyboard */; };
+		5269A43124DC8AC80063DB9A /* Area.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5269A43024DC8AC80063DB9A /* Area.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5269A42524DC8A510063DB9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5269A42824DC8A510063DB9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5269A42A24DC8A510063DB9A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5269A43024DC8AC80063DB9A /* Area.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Area.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5269A41C24DC8A4F0063DB9A /* AppDelegate.swift */,
 				5269A41E24DC8A4F0063DB9A /* SceneDelegate.swift */,
 				5269A42024DC8A4F0063DB9A /* ViewController.swift */,
+				5269A43024DC8AC80063DB9A /* Area.swift */,
 				5269A42224DC8A4F0063DB9A /* Main.storyboard */,
 				5269A42524DC8A510063DB9A /* Assets.xcassets */,
 				5269A42724DC8A510063DB9A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				5269A42124DC8A4F0063DB9A /* ViewController.swift in Sources */,
 				5269A41D24DC8A4F0063DB9A /* AppDelegate.swift in Sources */,
+				5269A43124DC8AC80063DB9A /* Area.swift in Sources */,
 				5269A41F24DC8A4F0063DB9A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
